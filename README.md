@@ -3,4 +3,4 @@ Introduction to Git and Github
 Lane Tech 
 Alexa Larez 
 Hello 
-chicago, IL 
+Chicago, IL 
